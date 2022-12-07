@@ -1,4 +1,4 @@
 # learning-terraform
 
-## Terraform: Up & Running, 2nd Edition
-_September 2019_
+## Terraform: Up & Running, 3rd Edition
+_September 2022_
